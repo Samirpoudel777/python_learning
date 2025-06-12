@@ -1,0 +1,7 @@
+name = "  Samir ,Poudel "
+a = name.upper()
+print(a.lower())
+print(a.strip());
+print(a.replace("S", "H"))
+print(a.split("r"))
+

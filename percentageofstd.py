@@ -1,0 +1,10 @@
+print("enter your marks in five subject")
+math=float(input("enter your marks in math"))
+science=float(input("enter your marks in science"))
+english=float(input("enter your marks in english"))
+account=float(input("enter your marks in account"))
+social=float(input("enter your marks in social"))
+total=(math+science+english+account+social)
+print(total)
+percentage=(total/500)*100
+print(percentage)

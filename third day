@@ -1,0 +1,19 @@
+# write a pytho program to enter principal , time ,rate and interest 
+# and calcuate simple interest .
+# write a program to input readius and find the are of ciricle
+# write a program to input a farenheits to celcius
+# write a  program to enter a two number and find sum , difference , multiply and division in output
+# write a program to to enter a marks of 5 subject and calculate percentage of the student.
+ 
+# name = ["Gaurab","Ram","Hari","krisha"]
+# name.insert(1,"hari")
+# print(name)
+
+# first = [1,2,3,4,5]
+# second = [6,7,8,9]
+# first.extend(second)
+# print(first)
+
+fruit = ["applye","banana","Kiwi"];
+fruit.insert(0,"organge");
+print(fruit)
