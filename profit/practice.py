@@ -43,18 +43,23 @@
 # t1 = Teacher("Mr.samir poudel", "trading")
 # t1.introduce()
 
-class Cat:
-    def make_sound(self):
-        print("Meow!")
-class Dog:
-    def make_sound(self):
-        print("Woof!")
-def animal_sound(animal):
-    animal.make_sound()
-c = Cat()
-d = Dog()
+# class Cat:
+#     def make_sound(self):
+#         print("Meow!")
+# class Dog:
+#     def make_sound(self):
+#         print("Woof!")
+# def animal_sound(animal):
+#     animal.make_sound()
+# c = Cat()
+# d = Dog()
 
 
-animal_sound(c)  
-animal_sound(d)  
+# animal_sound(c)  
+# animal_sound(d)  
 
+import time
+
+print("Printing after a delay...")
+time.sleep(3)  # Delay for 3 seconds
+print("Hello, world!")
